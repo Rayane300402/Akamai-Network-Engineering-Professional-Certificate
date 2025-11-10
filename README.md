@@ -70,10 +70,15 @@ Network defense, IAM, encryption fundamentals, endpoint security, vulnerability 
 
 
 ├── operating-systems-fundamentals/
+
 ├── networking-fundamentals/
+
 ├── managing-relational-databases/
+
 ├── python-scripting-fundamentals/
+
 ├── introduction-to-it-security/
+
 └── README.md
 
 
