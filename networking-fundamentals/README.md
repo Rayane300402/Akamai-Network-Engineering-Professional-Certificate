@@ -26,5 +26,6 @@ In this task, a minimal network consisting of **two PCs connected directly with 
    ```sh
    ipconfig
 3. Test connectivity to PC0:
+   ```sh
    ping 192.168.1.10
 4. Expected Output: 4 reply messages confirming successful two-way communication.
